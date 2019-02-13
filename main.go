@@ -2,11 +2,11 @@ package main
 
 import (
 	"errors"
-	"fmt"
 	"net/http"
 	"time"
 
 	"apiserver/config"
+	"apiserver/model"
 	"apiserver/router"
 
 	"github.com/gin-gonic/gin"
@@ -27,15 +27,12 @@ func main() {
 		panic(err)
 	}
 
+	// init db
+	model.DB.Init()
+	defer model.DB.Close()
+
 	// Set gin mode.
 	gin.SetMode(viper.GetString("runmode"))
-
-	go func() {
-		for {
-			log.Info(fmt.Sprint("Bigdot use data!!!!",time.Now()))
-			time.Sleep(100*time.Millisecond)
-		}
-	}()
 
 	// Create the Gin engine.
 	g := gin.New()

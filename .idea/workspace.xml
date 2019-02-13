@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fd89387-2318-4ff4-9c9c-6ac89450dcc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GinDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/RwLock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/checkhttp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/oncerun.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/sync1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/synctest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/timegroup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../matrix_wallet_command/.idea/jsLinters/tslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../matrix_wallet_command/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../smartcontract/merify/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../smartcontract/merify/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../accounts源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a黄皮书里面出现的所有的符号索引.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-blockchain源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-bloombits源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-chain_indexer源码解析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-genesis创世区块源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-state-process源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-state源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-txlist交易池的一些数据结构源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-txpool交易池源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-vm-jumptable-instruction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-vm-stack-memory源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-vm源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-bloombits和filter源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader-peer源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader-queue.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader-statesync.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-fetcher源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ethdb源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth以太坊协议分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../geth启动流程分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../go-ethereum源码阅读环境搭建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hashimoto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miner挖矿部分源码分析CPU挖矿.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-database.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-dial.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-nat源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-peer.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-rlpx节点之间的加密链路.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-server.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-table.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-udp.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pos介绍proofofstake.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rlp源码解析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rpc源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../todo-p2p加密算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../todo-pow一致性算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../todo-用户账户-密钥-签名的关系.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../trie源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../以太坊fast sync算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../以太坊测试网络Clique_PoA介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../以太坊随机数生成方式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../封装的一些基础工具.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#14#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/handler/sd/check.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf/config.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="19" />
+    <option name="y" value="76" />
+    <option name="width" value="1680" />
+    <option name="height" value="853" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+              <item name="sd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build apiserver">
+    <configuration name="go build apiserver" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apiserver" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="apiserver" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apiserver" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="apiserver" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build apiserver" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="979" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.21645997" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Google Cloud Storage" order="3" />
+      <window_info anchor="right" id="Cargo" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handler/sd/check.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
