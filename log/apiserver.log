@@ -1,0 +1,49 @@
+{"level":"INFO","timestamp":"2019-03-07 20:28:00.757","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-03-07 20:28:00.759","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-03-07 20:51:03.978","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 20:51:03.979","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:51:03.979","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:51:59.665","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 20:51:59.666","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:51:59.666","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:52:26.440","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 20:52:26.440","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:52:26.440","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:52:36.881","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 20:52:36.882","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:52:36.882","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:53:13.608","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 20:53:13.608","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:53:13.608","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:53:42.338","file":"user/create.go:26","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2019-03-07 20:53:42.339","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:53:42.339","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:54:25.572","file":"user/create.go:26","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-03-07 20:55:03.045","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 20:55:03.045","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 20:55:03.045","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 21:02:27.172","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 21:02:27.172","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 21:02:27.172","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-07 21:04:31.290","file":"user/create.go:26","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-03-07 21:04:31.290","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-07 21:04:31.290","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2019-03-08 12:30:15.712","file":"user/create.go:26","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2019-03-08 12:32:36.457","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-03-08 12:32:36.460","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-03-08 12:32:46.608","file":"user/create.go:26","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-03-08 12:32:54.005","file":"user/create.go:26","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2019-03-08 12:34:39.967","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-03-08 12:34:39.967","file":"apiserver/main.go:73","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2019-03-08 12:34:40.972","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-03-08 12:41:36.086","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-03-08 12:41:36.087","file":"apiserver/main.go:73","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2019-03-08 12:41:43.499","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-03-08 12:43:07.395","file":"user/create.go:26","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2019-03-08 13:51:02.509","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-03-08 13:51:02.510","file":"apiserver/main.go:73","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2019-03-08 13:51:03.518","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-03-08 16:08:17.307","file":"user/create.go:26","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-03-08 16:11:56.429","file":"user/create.go:26","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2019-03-08 16:12:07.025","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-03-08 16:12:27.493","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
